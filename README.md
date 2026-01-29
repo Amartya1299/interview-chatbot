@@ -139,8 +139,8 @@ MIT License - feel free to use this project for learning or research purposes.
 ## 👤 Author
 
 **Amartya Mishra**
-- GitHub: [@yourusername](https://github.com/Amartya1299)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/amartya-mishra-b7a447230/)
+- GitHub: [@Amartya1299](https://github.com/Amartya1299)
+- LinkedIn: [Amartya Mishra](https://www.linkedin.com/in/amartya-mishra-b7a447230/)
 - Email: mishra.amartya5@gmail.com
 
 ## 🙏 Acknowledgments
