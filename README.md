@@ -143,17 +143,6 @@ MIT License - feel free to use this project for learning or research purposes.
 - LinkedIn: [Amartya Mishra](https://www.linkedin.com/in/amartya-mishra-b7a447230/)
 - Email: mishra.amartya5@gmail.com
 
-## 🙏 Acknowledgments
-
-- Built as part of Master's program at Purdue University Northwest
-- Inspired by research assistant position in AI-assisted interviewing
-- Uses Google's gemini-2.0-flash for conversational intelligence
-
----
-
-**Note:** This project is for educational and research purposes. When conducting real interviews, always obtain proper consent and follow ethical guidelines for data collection.
-```
-
 ---
 
 ### **Step 11: Create .env.example**
